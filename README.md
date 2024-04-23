@@ -44,6 +44,28 @@ Some of the data cleaning steps I foolwed are as follows:-
 ![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/46a28d99-dbb0-4cd7-96c1-e8cdc474a9f5)
 
 
+## KPI's
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/9a704c2e-c2ca-490b-94f5-5478851d150d)
+
+
+## Insights and Recommendations
+1.
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/59b18fbe-05cd-4383-a817-5cff4ef7c3f0)
+
+👉 Good Y-O-Y growth.
+👉 Insurances written throughout the year reach its peak in March and then descend, hitting bottom in December. This could be due to the approach of the financial year end. Hence Ensure we have marketing campaigns targeting towards engaging customers throughout the year.
+👉 Before the 1st of May 2019, policies who have an exposure less than 1 result in lost net earned premium of £2.3M(~12.43% ↓). Check for policies before 1/5/2019 to see if people stopped their policies midway and why?
+
+
+
+
+
+
+
+
+
+
 
    
 
