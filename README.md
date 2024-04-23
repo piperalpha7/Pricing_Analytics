@@ -91,7 +91,13 @@ Some of the data cleaning steps I foolwed are as follows:-
 👉 CTM sells the greatest number of Policies. Yet the average policy value is way lower than some other aggregators, thereby causing a fall in the net average. Need to go over the commissions to improve net written premium
 
 
+## Claim Predictors
 
+Identified the most probable claim predictors by having a close look at their relationship with 'average claim size'.
+
+To put the results out in 1 sentence:
+
+‘ A male who is aged 18-35 years, with a no claim discount between 0-2 years, parks his vehicle on the road, takes a ‘Insured + Parent’ entitlement and a comprehensive cover tends to have an average claim amount of £1280.23 and total claim of around £1.3M'
 
 
 
