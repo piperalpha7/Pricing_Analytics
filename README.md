@@ -8,5 +8,7 @@ I did this pricing analytics project, based on a dummy dataset from a company. T
 Dataset comprised of Car Insurance policies(40 Columns and 100000 rows)
 
 1. Eliminated rows where the 'policy' was in force before the vehicle was purchased
- ![Uploading image.png…]()
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/6cc324dc-6aa3-46bf-8f53-a016afc93445)
+
 
