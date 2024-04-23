@@ -1,14 +1,51 @@
 # Pricing Analytics
 
-I did this pricing analytics project, based on a dummy dataset from a company. This is the reason why, I would not be able to upload the dummy dataset or the Power BI files. But, I got some good exposure to Data Cleaning and could recommend some pricing strategies which I 
+I did this pricing analytics project, based on a dummy dataset from a company. This is the reason why, I would not be able to upload the dummy dataset or the Power BI files. But, I got some good exposure to Data Cleaning and could recommend some pricing strategies.
+
+## Tools Used
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/1416c77a-1dfe-46b9-bcd2-974fecaf08c2) Python(Pandas)
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/e7ced65b-9217-4bb9-b448-4e8a4d30d137) MS-Excel(Pivots and Lookups)
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/45080d89-f63e-4167-913d-6197438bf41a) PowerBI(Dashboard)
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/e1baa1fc-aae6-4617-8b54-7a690dd8df51)(Presentation)
+
+
+
+## Dataset
+
+Dataset comprised of Car Insurance policies(40 Columns and 100000 rows)
 
 
 ## Data Cleaning
 
-Dataset comprised of Car Insurance policies(40 Columns and 100000 rows)
+Some of the data cleaning steps I foolwed are as follows:-
 
 1. Eliminated rows where the 'policy' was in force before the vehicle was purchased
 
 ![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/6cc324dc-6aa3-46bf-8f53-a016afc93445)
+
+2. Eliminated rows where policy holders were residents of a country more than their age.
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/06c85a55-0604-401c-bec8-b609ac428abf)
+
+3. Eliminated ambiguous 'vehicle purchase date' rows
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/312abf7e-2440-4e1e-9e62-21bf3be81068)
+
+
+4. In certain cases, vehicle_age was -1 years...To rectify this watched the dataset closely and found the average vehicle value for vehicle age of 1,2,3 etc. Found that the average vehicle value of 1 year old vehicle was closest to the vehicle with age -1. Hence imputed -1 to 1
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/c792fd10-c18b-451e-b544-97f0c048b0f1)
+
+5. Eliminated customers where it was impractical for a customer to hold a licence considering his age. In this example below a customer aged 26 years cannot be holding a licence from 25 years.
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/46a28d99-dbb0-4cd7-96c1-e8cdc474a9f5)
+
+
+
+   
 
 
