@@ -60,6 +60,43 @@ Some of the data cleaning steps I foolwed are as follows:-
 👉 Before the 1st of May 2019, policies who have an exposure less than 1 result in lost net earned premium of £2.3M(~12.43% ↓). Check for policies before 1/5/2019 to see if people stopped their policies midway and why?
 
 
+2.
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/3b5898e9-a50d-4d95-9a9a-7de4e76f0e0b)
+
+👉 Sold around 3000 lesser ‘Commuting and Social’ policies at a lower average price resulting in a loss of premium of around £1.7M(~16%↓), compared to last FY.
+
+👉 Maintaining £401. 85(avg price) for C & S policy would have got our written premium to around £10.08m (~11%↓)
+
+👉 Hiking the average price of SDP policies to around £350 would have increased our net premium to around £5.92m(~2% ↑) 
+
+
+
+ 3.
+ ![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/857d4960-a3e4-4e81-bdb6-7b67023bf254)
+
+👉 Seniors prove to be the safest drivers with an average NCD of around 8 years.
+
+👉 South East’, ‘North West’ and ‘Yorkshire’ constitute to around 40% of the total policies
+
+
+4. 
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/650de142-a1fd-4329-8534-43546f99bb32)
+
+![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/049047e8-7fc9-4761-939e-ef1929a87ee2)
+
+
+👉 ‘London’ region has an average claim size lesser than ‘Yorkshire’ and ‘North-East’ yet has higher premiums (~25% and ~14%  respectively). Restructuring 
+    of pricing is needed here.
+
+👉 CTM sells the greatest number of Policies. Yet the average policy value is way lower than some other aggregators, thereby causing a fall in the net    
+   average. Need to go over the commissions to improve net written premium
+
+
+
+
+
+
+
 
 
 
