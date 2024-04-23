@@ -3,17 +3,13 @@
 I did this pricing analytics project, based on a dummy dataset from a company. This is the reason why, I would not be able to upload the dummy dataset or the Power BI files. But, I got some good exposure to Data Cleaning and could recommend some pricing strategies.
 
 ## Tools Used
-![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/b0cb2304-de5a-461d-9aaf-3e1c17258e3a)
- Python(Pandas)
+👉 Python(Pandas)
 
-![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/ca40bea1-f8dc-424c-a1f3-2475473cec84)
- MS-Excel(Pivots and Lookups)
+👉 MS-Excel(Pivots and Lookups)
 
-![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/a0e02c3f-dfa9-4cf4-a2dd-b525d0281100)
- PowerBI(Dashboard)
+👉 PowerBI(Dashboard)
 
-![image](https://github.com/piperalpha7/Pricing_Analytics/assets/94968239/a9619a95-3b48-4323-8a38-9774c85b3e67)
-MS-PowerPoint(Presentation)
+👉 MS-PowerPoint(Presentation)
 
 
 
