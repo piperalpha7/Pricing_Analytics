@@ -88,8 +88,7 @@ Some of the data cleaning steps I foolwed are as follows:-
 👉 ‘London’ region has an average claim size lesser than ‘Yorkshire’ and ‘North-East’ yet has higher premiums (~25% and ~14%  respectively). Restructuring 
     of pricing is needed here.
 
-👉 CTM sells the greatest number of Policies. Yet the average policy value is way lower than some other aggregators, thereby causing a fall in the net    
-   average. Need to go over the commissions to improve net written premium
+👉 CTM sells the greatest number of Policies. Yet the average policy value is way lower than some other aggregators, thereby causing a fall in the net average. Need to go over the commissions to improve net written premium
 
 
 
